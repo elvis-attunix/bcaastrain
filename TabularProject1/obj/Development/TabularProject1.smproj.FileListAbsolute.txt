@@ -1,0 +1,20 @@
+C:\Slalom\Microsoft\Trainings\Azure Analysis Services\TabularProject1\TabularProject1\bin\Model.asdatabase
+C:\Slalom\Microsoft\Trainings\Azure Analysis Services\TabularProject1\TabularProject1\bin\Model.deploymenttargets
+C:\Slalom\Microsoft\Trainings\Azure Analysis Services\TabularProject1\TabularProject1\bin\Model.deploymentoptions
+C:\Slalom\Microsoft\Trainings\Azure Analysis Services\TabularProject1\TabularProject1\obj\Development\Model.asdatabase
+C:\Slalom\Microsoft\Trainings\Azure Analysis Services\TabularProject1\TabularProject1\obj\Development\Model.deploymentoptions
+C:\Slalom\Microsoft\Trainings\Azure Analysis Services\TabularProject1\TabularProject1\obj\Development\Model.deploymenttargets
+C:\Users\ElvisD'souza\Documents\Projects\Attunix\Training\MS AS Course\TabularProject1\TabularProject1\bin\Model.asdatabase
+C:\Users\ElvisD'souza\Documents\Projects\Attunix\Training\MS AS Course\TabularProject1\TabularProject1\bin\Model.deploymenttargets
+C:\Users\ElvisD'souza\Documents\Projects\Attunix\Training\MS AS Course\TabularProject1\TabularProject1\bin\Model.deploymentoptions
+C:\Users\ElvisD'souza\Documents\Projects\Attunix\Training\MS AS Course\TabularProject1\TabularProject1\obj\Development\TabularProject1.smproj.CoreCompileInputs.cache
+C:\Users\ElvisD'souza\Documents\Projects\Attunix\Training\MS AS Course\TabularProject1\TabularProject1\obj\Development\Model.asdatabase
+C:\Users\ElvisD'souza\Documents\Projects\Attunix\Training\MS AS Course\TabularProject1\TabularProject1\obj\Development\Model.deploymentoptions
+C:\Users\ElvisD'souza\Documents\Projects\Attunix\Training\MS AS Course\TabularProject1\TabularProject1\obj\Development\Model.deploymenttargets
+C:\Users\ElvisD'souza\Documents\github\AAStrain\TabularProject1\bin\Model.asdatabase
+C:\Users\ElvisD'souza\Documents\github\AAStrain\TabularProject1\bin\Model.deploymenttargets
+C:\Users\ElvisD'souza\Documents\github\AAStrain\TabularProject1\bin\Model.deploymentoptions
+C:\Users\ElvisD'souza\Documents\github\AAStrain\TabularProject1\obj\Development\TabularProject1.smproj.CoreCompileInputs.cache
+C:\Users\ElvisD'souza\Documents\github\AAStrain\TabularProject1\obj\Development\Model.asdatabase
+C:\Users\ElvisD'souza\Documents\github\AAStrain\TabularProject1\obj\Development\Model.deploymentoptions
+C:\Users\ElvisD'souza\Documents\github\AAStrain\TabularProject1\obj\Development\Model.deploymenttargets
